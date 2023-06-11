@@ -2,7 +2,7 @@ main{
     background-color: whitesmoke;
   }
   main .topPic {
-    min-height: 300px;
+    min-height: 500px;
     border-radius: 32px;
     background-image: url(https://images.pexels.com/photos/255514/pexels-photo-255514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
     font-family: "Pattaya", sans-serif;
