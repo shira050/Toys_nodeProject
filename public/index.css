@@ -7,7 +7,7 @@ main{
     background-image: url(https://images.pexels.com/photos/255514/pexels-photo-255514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
     font-family: "Pattaya", sans-serif;
     box-shadow: 0px 10px 22px 0px #000000;
-    background-position: center;
+    background-position: top;
     background-size: cover;
   }
   
